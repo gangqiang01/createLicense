@@ -32,9 +32,12 @@ public class CreateLicense {
 	private static String SUBJECT = "";
 	private static String licPath = "";
 	private static String priPath = "";
+//	发布时间
 	//license content
 	private static String issuedTime = "";
+	//开始时间
 	private static String notBefore = "";
+	//结束时间
 	private static String notAfter = "";
 	private static String consumerType = "";
 	private static int consumerAmount = 0;
